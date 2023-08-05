@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url("/images/039.jpg") no-repeat center;
+    background: url("039.jpg") no-repeat center;
     background-size: cover;
     min-height: 100vh;
     display: flex;
